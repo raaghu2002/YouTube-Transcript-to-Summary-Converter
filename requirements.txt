@@ -1,0 +1,9 @@
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+# To create conda environment
+# conda create -p venv python==3.10 -y
+# To active Environment 
+# conda activate venv/
